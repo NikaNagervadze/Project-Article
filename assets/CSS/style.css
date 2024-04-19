@@ -1,0 +1,12 @@
+/* In Header I'll just make some smooth Animations, Simply Because everything is already done in .HTML file in form of InLine Style*/
+
+.Links{
+    transition: all 0.4s;
+}
+
+.Links:hover {
+    transform: scale(.9);
+}
+
+/* Here I'm starting first Section of Index.HTML */
+
