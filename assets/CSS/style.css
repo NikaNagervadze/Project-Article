@@ -10,3 +10,10 @@
 
 /* Here I'm starting first Section of Index.HTML */
 
+.card{
+    background: rgba(229, 229, 229, 0.12);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px hsla(229, 56%, 69%, 0.1);
+    backdrop-filter: blur(9.8px);
+    -webkit-backdrop-filter: blur(9.8px);
+}
